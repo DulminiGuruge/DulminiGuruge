@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a front end and the REST API of a restaurant web application.
-- 🌱 I’m currently learning AWS cloud architecture.
-- 👯 I’m looking to collaborate on any exciting project in my leisure time.
-- 📫 How to reach me: Email me at dulminiguruge@gmail.com
+- 🔭 The project I am currently working on involves developing the front-end and REST API for a web application designed for a restaurant.
+- 🌱 I am excited to be part of the ever-evolving world of cloud computing and currently dedicating my time to learning  AWS cloud architecture.
+- 👯 Always on the lookout for exciting projects to collaborate on during my free time. If you have an idea or project that you think I can contribute to, let's work together and bring it to life! 
+- 📫 How to reach me: Email me at contact@dguruge.com
 -->
 
